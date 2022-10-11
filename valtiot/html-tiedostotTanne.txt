@@ -1,1 +1,0 @@
-Sijoita valtiokohtainen html-tiedosto esim. fi.html tänne.
